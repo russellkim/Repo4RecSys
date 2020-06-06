@@ -7,8 +7,9 @@
 Kang, Wang-Cheng, and Julian McAuley. 2018. <b>“Self-Attentive Sequential Recommendation.”</b> In IEEE International Conference on Data Mining. http://arxiv.org/abs/1808.09781.
 
 - Approach : based on Transformer
-- Dataset : Beauty, Steam ML-1m, ML-20m
-- github : Amazon Beauty, Amazon Games, Steam, MovieLens-1M
+- Dataset : Amazon Beauty, Amazon Games, Steam, MovieLens-1M
+- github : https://github.com/kang205/SASRec
+
 
 = Session-Based Recommendation with Self-Attention
 Anh, Pham Hoang, Ngo Xuan Bach, and Tu Minh Phuong. 2019. <b>“Session-Based Recommendation with Self-Attention.”</b> In Proceedings of the Tenth International Symposium on Information and Communication Technology, 1–8. SoICT 2019. New York, NY, USA: Association for Computing Machinery.
