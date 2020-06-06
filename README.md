@@ -1,6 +1,6 @@
-#Problems
+# Problems
 
-##Session based RecSys
+## Session based RecSys
 
 ### Neural Language Model 
 = Self-Attentive Sequential Recommendation
