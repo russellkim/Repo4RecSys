@@ -28,4 +28,9 @@ Anh, Pham Hoang, Ngo Xuan Bach, and Tu Minh Phuong. 2019. <b>“Session-Based Re
 
 # DataSets
 
+# Baseline Codes
+
+= AttRec, Caser, GRU4Rec, FPMC, TransRec, SASRec
+
+- (Tensorflow 1.1+) https://github.com/slientGe/Sequential_Recommendation_Tensorflow
 
