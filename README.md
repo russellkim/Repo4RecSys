@@ -5,6 +5,10 @@
 
 # Problems
 
+## Heterogenous RecSys
+
+=
+
 ## Session based RecSys
 
 ### Based on Attention Model 
