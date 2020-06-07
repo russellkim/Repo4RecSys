@@ -12,6 +12,7 @@
 =
 
 ### Based on Neural Language Model 
+
 = Kang, Wang-Cheng, and Julian McAuley. 2018. <b>“Self-Attentive Sequential Recommendation.”</b> In IEEE International Conference on Data Mining. http://arxiv.org/abs/1808.09781.
 
 - Approach : based on Transformer
@@ -34,6 +35,11 @@
 
 
 # DataSets
+
+= List of Datasets
+
+- https://github.com/daicoolb/RecommenderSystem-DataSet
+- https://cseweb.ucsd.edu/~jmcauley/datasets.html
 
 = YOOCHOOSE (Recsys 2015)
 
